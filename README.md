@@ -2,7 +2,7 @@
 
 ## Description
 
-Ceci est un blog éducatif sur les bases du web, réalisé dans le cadre de la formation Udemy “Build Responsive Real-World Websites with HTML and CSS”.
+Ceci est un blog éducatif sur les bases du web, réalisé dans le cadre de la formation Udemy [udmey HTML CSS cours](https://www.udemy.com/share/101Wqo3@Af5rU4ak7OIVxanBQXEv8ZaBqTxPe_Il4wJKf-2cKL1WFKM-leK62SWK88GrLaz2Yg==/)
 
 ### La page présente :
 
@@ -12,6 +12,10 @@ Ceci est un blog éducatif sur les bases du web, réalisé dans le cadre de la f
 - Un footer simple avec copyright
 
 Toutes les sections sont construites à la main en HTML et CSS, utilisant Flexbox et Grid pour la mise en page.
+
+## Voir le projet en ligne
+
+Tu peux consulter le projet en direct ici : [Code magazine](https://cynhlfn.github.io/Code-magazine-html-css/)
 
 ## Technologies utilisées
 
