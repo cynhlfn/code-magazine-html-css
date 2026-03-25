@@ -1,4 +1,4 @@
-# 🪐 Code Magazine HTML/CSS
+# 📰 Code Magazine HTML/CSS
 
 ## Description
 
