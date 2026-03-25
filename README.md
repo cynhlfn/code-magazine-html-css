@@ -1,32 +1,31 @@
-# 🪐 Code Magazine – HTML & CSS Project
+# 🪐 Code Magazine HTML/CSS
 
-## About the Project
+## Description
 
-This project is a blog-style webpage built using HTML and CSS.
+Ceci est un blog éducatif sur les bases du web, réalisé dans le cadre de la formation Udemy “Build Responsive Real-World Websites with HTML and CSS”.
 
-It was created as part of a Udemy course to practice structuring content and building modern layouts.
+### La page présente :
 
-## Technologies Used
+- Une section article expliquant le HTML avec texte, images et exemples
+- Une section aside avec posts liés et auteurs
+- Une barre de navigation pour accéder aux différentes sections du site
+- Un footer simple avec copyright
+
+Toutes les sections sont construites à la main en HTML et CSS, utilisant Flexbox et Grid pour la mise en page.
+
+## Technologies utilisées
 
 - HTML5
 - CSS3
+- Flexbox & CSS Grid
+- Icônes et images
+- Compétences développées
+- HTML sémantique et structuré
+- CSS moderne : Flexbox, Grid, pseudo-classes et styles avancés
+- Gestion des images, boutons et liens interactifs
+- Mise en page responsive
+- Structuration d’un blog simple
 
-## Skills Practiced
-
-- Semantic HTML structure
-- CSS styling and selectors
-- Flexbox layout
-- CSS Grid layout
-- Positioning (absolute, relative)
-- Pseudo-classes and pseudo-elements
-- Responsive layout basics
-
-## Learning Context
-
-This project was developed during a Udemy course focused on modern HTML and CSS.
-
-The goal was to apply theoretical concepts by building a realistic blog layout, including navigation, article content, and sidebar.
-
-## Author
+## Autrice
 
 Cyndia HALFOUN
