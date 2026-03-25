@@ -19,7 +19,9 @@ Toutes les sections sont construites à la main en HTML et CSS, utilisant Flexbo
 - CSS3
 - Flexbox & CSS Grid
 - Icônes et images
-- Compétences développées
+
+## Compétences développées
+
 - HTML sémantique et structuré
 - CSS moderne : Flexbox, Grid, pseudo-classes et styles avancés
 - Gestion des images, boutons et liens interactifs
