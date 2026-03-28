@@ -4,6 +4,7 @@
 
 Ceci est un blog éducatif sur les bases du web, réalisé dans le cadre de la formation Udemy [udmey HTML CSS cours](https://www.udemy.com/share/101Wqo3@Af5rU4ak7OIVxanBQXEv8ZaBqTxPe_Il4wJKf-2cKL1WFKM-leK62SWK88GrLaz2Yg==/)
 
+lien vers la page : https://cynhlfn.github.io/Code-magazine-html-css/
 ### La page présente :
 
 - Une section article expliquant le HTML avec texte, images et exemples
